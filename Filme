@@ -1,14 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://vingadoresbrasilcom.files.wordpress.com/2021/01/black-widow-5e667a3ea6e0f.jpg" group-title="Ação", Viúva Negra
-https://gofilmes.me/play/pd.php?cUVSLzl4T3k0MndoancyZHF4ay9CNnZpL0JxV2lXcm5ONUwwWDc3d2paOVd4ZEtlWkFGaU9JSmVxaDVGOHIrS2R1SDhQTmJraW1Za1hCUzVRcDRuUEE9PQ==
-#EXTINF:-1 tvg-logo="https://vingadoresbrasilcom.files.wordpress.com/2021/01/black-widow-5e667a3ea6e0f.jpg" group-title="Ação", Viúva Negra (Opção 2)
+#EXTINF:-1 tvg-logo="https://vingadoresbrasilcom.files.wordpress.com/2021/01/black-widow-5e667a3ea6e0f.jpg" group-title="Ação", Viúva Negra (Opção 1)
 https://lb.soufitness.xyz/hls/db98eeea32989caa6fbf6e4c870bb328/db98eeea32989caa6fbf6e4c870bb328.m3u8
-#EXTINF:-1 tvg-logo="https://vingadoresbrasilcom.files.wordpress.com/2021/01/black-widow-5e667a3ea6e0f.jpg" group-title="Ação", Viúva Negra (Opção 3)
+#EXTINF:-1 tvg-logo="https://vingadoresbrasilcom.files.wordpress.com/2021/01/black-widow-5e667a3ea6e0f.jpg" group-title="Ação", Viúva Negra (Opção 2)
 https://player.filmesonlinetv.org/hls/91118ad97e8c072d38bc7c03342a38be/91118ad97e8c072d38bc7c03342a38be.m3u8
-#EXTINF:-1 tvg-logo="https://vingadoresbrasilcom.files.wordpress.com/2021/01/black-widow-5e667a3ea6e0f.jpg" group-title="Ação", Viúva Negra (Opção 4)
-https://video.wixstatic.com/video/189d4b_65166edd63bf405a8dbfea6350105841/720p/mp4/file.mp4
 #EXTINF:-1 tvg-logo="https://br.web.img3.acsta.net/pictures/21/04/14/19/06/3385237.jpg" group-title="Ação", Velozes e Furiosos
-https://video.wixstatic.com/video/bfe75c_f2a590a89ec647519b1ef3bb6729b474/720p/mp4/file.mp4
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAbyLHBGUDGEPTWXOC5pbDRLKfP2nNlkC31w&usqp=CAU" group-title="Ação", Esquadrão Suicida
-https://video.wixstatic.com/video/2cca5e_bf4932ae538240adb19d262b944eefc5/720p/mp4/file.mp4
+https://player.filmesonlinetv.org/hls/82de3ed84bd4fa81019259f261dc00e0/82de3ed84bd4fa81019259f261dc00e0.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAbyLHBGUDGEPTWXOC5pbDRLKfP2nNlkC31w&usqp=CAU" group-title="Ação", Esquadrão Suicida 2
+https://player.filmesonlinetv.org/hls/2f6caf30c87789ad88ffafabd3abb67c/2f6caf30c87789ad88ffafabd3abb67c.m3u8
